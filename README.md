@@ -4,6 +4,6 @@ Hello 👋, I'm a full stack web developer skilled in JavaScript, React, Node, P
 
 When not coding, I am training my rambunctious German Shepherd puppy 🐕   and dreaming up designs for gorgeous quilts ✂️
 
-You can also find me on [LinkedIn](https://www.linkedin.com/in/jessica-gertig-cooper/)!
+You can also find me on [LinkedIn](https://www.linkedin.com/in/jessica-gertig/)!
 
 
